@@ -2,7 +2,7 @@ export const scaleFactor = 4;
 
 export const dialogueData = {
   pc: `This is my PC. I used it to make games like this one`,
-  degree: `This is my CS degree.`,
+  degree: `I love you diksha.`,
   sofa: `Here I relax or watch TV.`,
   table:`This is my table where I place my things like Cell Phone or Books`,
   chair: `This is a chair.`,
